@@ -1,0 +1,3 @@
+moses_executable=/data/moses/prod_env/bin/MosesApp
+moses_ini_file=/data/tools/moses/sample-models/phrase-model/moses2.ini
+moses_options=-f -t -d

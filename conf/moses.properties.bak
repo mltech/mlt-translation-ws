@@ -1,0 +1,3 @@
+moses_executable=moses
+moses_ini_file=conf/moses/moses_zh-en.ini
+moses_options=-f -t -d
